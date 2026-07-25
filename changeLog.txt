@@ -1,2 +1,3 @@
 Added self clear SMSs
-Meter reset handle
+Get motor stautus by SMS and Call
+End call after two or three RINGS
