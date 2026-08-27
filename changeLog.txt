@@ -1,3 +1,3 @@
-Added self clear SMSs
-Get motor stautus by SMS and Call
-End call after two or three RINGS
+Added: Command to set off unit difference in WAPDA meter and Device meter.
+Check commands by sending "HELP".
+Added: Turn ON motor after 3 RINGS and turn OFF immidiately.
