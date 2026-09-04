@@ -1,4 +1,4 @@
 Added: Command to set off unit difference in WAPDA meter and Device meter.
 Check commands by sending "HELP".
 Added: Turn ON motor after 3 RINGS and turn OFF immidiately.
-Check motor Satus by sending 1 RING misscall.
+Check motor satus by sending 1 RING misscall.
