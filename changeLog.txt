@@ -1,4 +1,5 @@
-Added: Command to set off unit difference in WAPDA meter and Device meter.
-Check commands by sending "HELP".
-Added: Turn ON motor after 3 RINGS and turn OFF immidiately.
-Check motor satus by sending 1 RING misscall.
+شامل کیا گیا:
+WAPDA میٹر اور ڈیوائس میٹر کے یونٹس میں فرق کو سیٹ کرنے کے لیے فنکشن۔
+3 رِنگز کے بعد موٹر کو آن یا آف کرنے کی سہولت۔
+2 یا اس سے کم رِنگز کی مختصر مس کال کے ذریعے موٹر کا اسٹیٹس چیک کرنے کی سہولت۔
+اگر موٹر ڈیوائس کو بائی پاس کرکے آن کی جائے تو اطلاع بھیجنے کی سہولت۔
