@@ -1,6 +1,5 @@
-شامل کیا گیا:
-3 رِنگز کے بعد موٹر کو آن یا آف کرنے کی سہولت۔
-2 یا اس سے کم رِنگز کی مختصر مس کال کے ذریعے موٹر کا اسٹیٹس چیک کرنے کی سہولت۔
-اگر موٹر ڈیوائس کو بائی پاس کرکے آن کی جائے تو اطلاع بھیجنے کی سہولت۔
-بل کو ریویو، سینڈ اور ڈیلیٹ کرنے کا فنکشن۔
-واپڈا یونٹ / رقم، شروع ریڈنگ اور ختم ریڈنگ کا فنکشن۔
+What's New
+Check motor status by sending one misscall
+Alert for motor Bypass ON
+Genrate, save, send, review and delete bill
+Genrate bill by using amount/rate, prevoius and present readings
