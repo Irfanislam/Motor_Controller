@@ -3,3 +3,5 @@ Check motor status by sending one misscall
 Alert for motor Bypass ON
 Genrate, save, send, review and delete bill
 Genrate bill by using amount/rate, prevoius and present readings
+Enable call confirmation and set Ring count
+Auto SYSTEM unit distribution to Owners 
